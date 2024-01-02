@@ -4,7 +4,7 @@
 
 ## 実行画面
 - 文章の要約を出力
-<img src="https://github.com/HibikiYokoyama/FashionIdentificationApp/assets/89569080/438c6b75-a7c1-4af5-8d98-7d0f033ebb76" width="1000">
+<img src="https://github.com/HibikiYokoyama/SummarizeApp/assets/89569080/43c0fbf3-0066-49bb-a925-85a9c9bad245" width="1000">
 
 - 文章が長い場合、警告を表示
 <img src="https://github.com/HibikiYokoyama/FashionIdentificationApp/assets/89569080/438c6b75-a7c1-4af5-8d98-7d0f033ebb76" width="1000">
