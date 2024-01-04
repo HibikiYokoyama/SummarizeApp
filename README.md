@@ -16,7 +16,7 @@
 -アプリ実行用プログラム
 
 ## モデルの訓練に使用したデータセット
--  **ThreeLineSummaryDataset（https://github.com/KodairaTomonori/ThreeLineSummaryDataset）** の一部をスクレイピングして使用
+-  **ThreeLineSummaryDataset（<https://github.com/KodairaTomonori/ThreeLineSummaryDataset>）** の一部をスクレイピングして使用
 
 ## 使用ライブラリ
 - **streamlit 1.29.0**
